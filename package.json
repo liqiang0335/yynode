@@ -1,0 +1,15 @@
+{
+  "name": "yynode",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "yynode"
+  ],
+  "author": "liqiang0335@qq.com",
+  "license": "ISC",
+  "dependencies": {
+    "ip2region": "^2.3.0"
+  }
+}
